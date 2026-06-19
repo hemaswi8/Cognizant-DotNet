@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Downloads\\Cognizant-DotNet-FSE-Final\\Cognizant-DotNet-FSE-Final\\DeepSkilling\\Week-1\\Module-4-Nunit and Moq\\5.Nunit Handson\\CollectionsLib.Tests\\CollectionsLib.Tests.csproj": {}
+    "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\5.Nunit Handson\\CollectionsLib.Tests\\CollectionsLib.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Downloads\\Cognizant-DotNet-FSE-Final\\Cognizant-DotNet-FSE-Final\\DeepSkilling\\Week-1\\Module-4-Nunit and Moq\\5.Nunit Handson\\CollectionsLib.Tests\\CollectionsLib.Tests.csproj": {
+    "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\5.Nunit Handson\\CollectionsLib.Tests\\CollectionsLib.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Downloads\\Cognizant-DotNet-FSE-Final\\Cognizant-DotNet-FSE-Final\\DeepSkilling\\Week-1\\Module-4-Nunit and Moq\\5.Nunit Handson\\CollectionsLib.Tests\\CollectionsLib.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\5.Nunit Handson\\CollectionsLib.Tests\\CollectionsLib.Tests.csproj",
         "projectName": "CollectionsLib.Tests",
-        "projectPath": "C:\\Users\\Dell\\Downloads\\Cognizant-DotNet-FSE-Final\\Cognizant-DotNet-FSE-Final\\DeepSkilling\\Week-1\\Module-4-Nunit and Moq\\5.Nunit Handson\\CollectionsLib.Tests\\CollectionsLib.Tests.csproj",
+        "projectPath": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\5.Nunit Handson\\CollectionsLib.Tests\\CollectionsLib.Tests.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Downloads\\Cognizant-DotNet-FSE-Final\\Cognizant-DotNet-FSE-Final\\DeepSkilling\\Week-1\\Module-4-Nunit and Moq\\5.Nunit Handson\\CollectionsLib.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\5.Nunit Handson\\CollectionsLib.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Dell\\Downloads\\Cognizant-DotNet-FSE-Final\\Cognizant-DotNet-FSE-Final\\DeepSkilling\\Week-1\\Module-4-Nunit and Moq\\5.Nunit Handson\\CollectionsLib\\CollectionsLib.csproj": {
-                "projectPath": "C:\\Users\\Dell\\Downloads\\Cognizant-DotNet-FSE-Final\\Cognizant-DotNet-FSE-Final\\DeepSkilling\\Week-1\\Module-4-Nunit and Moq\\5.Nunit Handson\\CollectionsLib\\CollectionsLib.csproj"
+              "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\5.Nunit Handson\\CollectionsLib\\CollectionsLib.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\5.Nunit Handson\\CollectionsLib\\CollectionsLib.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\Dell\\Downloads\\Cognizant-DotNet-FSE-Final\\Cognizant-DotNet-FSE-Final\\DeepSkilling\\Week-1\\Module-4-Nunit and Moq\\5.Nunit Handson\\CollectionsLib\\CollectionsLib.csproj": {
+    "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\5.Nunit Handson\\CollectionsLib\\CollectionsLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Downloads\\Cognizant-DotNet-FSE-Final\\Cognizant-DotNet-FSE-Final\\DeepSkilling\\Week-1\\Module-4-Nunit and Moq\\5.Nunit Handson\\CollectionsLib\\CollectionsLib.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\5.Nunit Handson\\CollectionsLib\\CollectionsLib.csproj",
         "projectName": "CollectionsLib",
-        "projectPath": "C:\\Users\\Dell\\Downloads\\Cognizant-DotNet-FSE-Final\\Cognizant-DotNet-FSE-Final\\DeepSkilling\\Week-1\\Module-4-Nunit and Moq\\5.Nunit Handson\\CollectionsLib\\CollectionsLib.csproj",
+        "projectPath": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\5.Nunit Handson\\CollectionsLib\\CollectionsLib.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Downloads\\Cognizant-DotNet-FSE-Final\\Cognizant-DotNet-FSE-Final\\DeepSkilling\\Week-1\\Module-4-Nunit and Moq\\5.Nunit Handson\\CollectionsLib\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\5.Nunit Handson\\CollectionsLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
