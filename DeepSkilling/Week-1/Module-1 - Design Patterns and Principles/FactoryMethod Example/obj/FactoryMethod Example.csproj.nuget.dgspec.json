@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-1 - Design Patterns and Principles\\FactoryMethod Example\\FactoryMethod Example.csproj": {}
+    "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-1 - Design Patterns and Principles\\FactoryMethod Example\\FactoryMethod Example.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-1 - Design Patterns and Principles\\FactoryMethod Example\\FactoryMethod Example.csproj": {
+    "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-1 - Design Patterns and Principles\\FactoryMethod Example\\FactoryMethod Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-1 - Design Patterns and Principles\\FactoryMethod Example\\FactoryMethod Example.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-1 - Design Patterns and Principles\\FactoryMethod Example\\FactoryMethod Example.csproj",
         "projectName": "FactoryMethod Example",
-        "projectPath": "c:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-1 - Design Patterns and Principles\\FactoryMethod Example\\FactoryMethod Example.csproj",
+        "projectPath": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-1 - Design Patterns and Principles\\FactoryMethod Example\\FactoryMethod Example.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-1 - Design Patterns and Principles\\FactoryMethod Example\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-1 - Design Patterns and Principles\\FactoryMethod Example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-1 - Design Patterns and Principles\\SingletonPatternExample\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj": {}
+    "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-1 - Design Patterns and Principles\\SingletonPatternExample\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-1 - Design Patterns and Principles\\SingletonPatternExample\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj": {
+    "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-1 - Design Patterns and Principles\\SingletonPatternExample\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-1 - Design Patterns and Principles\\SingletonPatternExample\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-1 - Design Patterns and Principles\\SingletonPatternExample\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj",
         "projectName": "FactoryMethodPatternExample",
-        "projectPath": "c:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-1 - Design Patterns and Principles\\SingletonPatternExample\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj",
+        "projectPath": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-1 - Design Patterns and Principles\\SingletonPatternExample\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-1 - Design Patterns and Principles\\SingletonPatternExample\\FactoryMethodPatternExample\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-1 - Design Patterns and Principles\\SingletonPatternExample\\FactoryMethodPatternExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"

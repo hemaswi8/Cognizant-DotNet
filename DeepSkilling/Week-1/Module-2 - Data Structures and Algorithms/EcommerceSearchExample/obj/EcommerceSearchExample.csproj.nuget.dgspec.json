@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-2 - Data Structures and Algorithms\\EcommerceSearchExample\\EcommerceSearchExample.csproj": {}
+    "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-2 - Data Structures and Algorithms\\EcommerceSearchExample\\EcommerceSearchExample.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-2 - Data Structures and Algorithms\\EcommerceSearchExample\\EcommerceSearchExample.csproj": {
+    "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-2 - Data Structures and Algorithms\\EcommerceSearchExample\\EcommerceSearchExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-2 - Data Structures and Algorithms\\EcommerceSearchExample\\EcommerceSearchExample.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-2 - Data Structures and Algorithms\\EcommerceSearchExample\\EcommerceSearchExample.csproj",
         "projectName": "EcommerceSearchExample",
-        "projectPath": "c:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-2 - Data Structures and Algorithms\\EcommerceSearchExample\\EcommerceSearchExample.csproj",
+        "projectPath": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-2 - Data Structures and Algorithms\\EcommerceSearchExample\\EcommerceSearchExample.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-2 - Data Structures and Algorithms\\EcommerceSearchExample\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-2 - Data Structures and Algorithms\\EcommerceSearchExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
