@@ -1,1 +1,0 @@
-EXEC sp_GetEmployeeCountByDepartment 101;
