@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Telniw6SjvY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-2\\Module-6 - ASP.NET Core 8.0 Web API\\KafkaChatApplication\\KafkaChatApplication\\KafkaChatApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\confluent.kafka\\2.15.0\\confluent.kafka.2.15.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\librdkafka.redist\\2.15.0\\librdkafka.redist.2.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}
