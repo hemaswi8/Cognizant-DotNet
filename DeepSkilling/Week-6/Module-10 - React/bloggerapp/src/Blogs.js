@@ -1,0 +1,20 @@
+import React from "react";
+import { blogs } from "./Data";
+
+function Blogs() {
+  return (
+    <div>
+      <h1>Blog Details</h1>
+
+      {blogs.map((blog) => (
+        <div key={blog.id}>
+          <h2>{blog.title}</h2>
+          <h5>{blog.author}</h5>
+          <p>{blog.content}</p>
+        </div>
+      ))}
+    </div>
+  );
+}
+
+export default Blogs;
